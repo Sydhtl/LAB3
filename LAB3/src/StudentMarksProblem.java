@@ -28,7 +28,7 @@ public class StudentMarksProblem {
 		
 		Double OverallMarks=( Assesment1Marks * Assesment1Percentage) + (Assesment2Marks * Assesment2Percentage) + (LabAssignmentMarks * LabAssignmentPercentage)+(FinalExamMarks *FinalExamPercentage);
 		
-		System.out.println("Overall Marks for  student with Matric" + Matric + " is " + OverallMarks );
+		System.out.println("Overall Marks for  student with Matric " + Matric + " is " + OverallMarks );
 		
 		
 		
